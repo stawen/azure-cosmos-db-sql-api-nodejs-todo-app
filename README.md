@@ -9,6 +9,12 @@ description: "This sample shows you how to use the Azure Cosmos DB service to st
 urlFragment: azure-cosmos-db-sql-api-nodejs-todo-app
 ---
 
+# Env Var In Webapp for CosmoDB
+
+- COSMODB_URI : Connection URI
+- COSMODB_PRIMARY_KEY : Connection key
+
+
 # Web application development with Node.js and Express using Azure Cosmos DB
 This sample shows you how to use the Azure Cosmos DB service to store and access data from a Node.js Express application hosted on Azure Websites. 
 
