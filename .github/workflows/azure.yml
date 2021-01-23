@@ -20,7 +20,7 @@ name: Azure Webapp PaaS deploy
 on:
   push:
     branches:
-      - master
+      - main
 
 env:
   AZURE_WEBAPP_NAME: webapp-node-db-stan    # set this to your application's name
